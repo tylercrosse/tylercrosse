@@ -4,11 +4,11 @@ I focus on **machine learning interpretability**, **reasoning models**, and **sc
 
 <br/>
 
-
+<!--
 <a href="https://www.tylercrosse.com">
 <img align="left" alt="Tyler Crosse | Personal Site" width="22px" src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/icons/house-heart.svg" />
 </a>
-<a href="https://www.linkedin.com/in/saket-prag-31b972157/">
+<a href="https://www.linkedin.com/in/tylercrosse/">
 <img align="left" alt="Tyler Crosse | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/linkedin.svg" />
 </a>
 <a href="https://twitter.com/[sakigo_09](https://x.com/tyler_crosse)">
@@ -17,14 +17,19 @@ I focus on **machine learning interpretability**, **reasoning models**, and **sc
 <br />
 
 <br />
+-->
 
 ---
 
 ## 📄 Writing & Analysis
+- [Personal Site](https://www.tylercrosse.com)
 - [ML Course Retrospective](https://www.tylercrosse.com/ideas/2025/ml-retro/)
 - [GIOS Course Retrospective](https://www.tylercrosse.com/ideas/2025/gios-retro/)
 
 ---
+
+## 🔗 Links
+- [LinkedIn](https://www.linkedin.com/in/tylercrosse/)
 
 <!--
 ## 🔍 Selected Projects
