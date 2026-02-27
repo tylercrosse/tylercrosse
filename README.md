@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Tyler
-I’m a Master’s student in Computer Science at Georgia Tech (ML specialization) and former senior software engineer.  
-I focus on **machine learning interpretability**, **reasoning models**, and **scalable oversight**.
+I'm a research engineer focused on interpretability and ML infrastructure.
+Currently finishing my MSCS at Georgia Tech (ML & Computing Systems) while doing alignment research with SPAR and MARS. Previously a Senior SWE & Team Lead for 7 years. My work spans **mechanistic interpretability**, **GPU systems**, and **building tooling that makes safety research possible at scale**.
 
 <br/>
 
@@ -23,6 +23,7 @@ I focus on **machine learning interpretability**, **reasoning models**, and **sc
 
 ## 📄 Writing & Analysis
 - [Personal Site](https://www.tylercrosse.com)
+- [GPU Course Retrospective](https://www.tylercrosse.com/ideas/2026/gpu-retro/)
 - [ML Course Retrospective](https://www.tylercrosse.com/ideas/2025/ml-retro/)
 - [GIOS Course Retrospective](https://www.tylercrosse.com/ideas/2025/gios-retro/)
 
