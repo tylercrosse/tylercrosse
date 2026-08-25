@@ -1,4 +1,4 @@
-# Tyler Crosse
+# 👋 Tyler Crosse
 
 I work on alignment, control, and interpretability. Before that I spent seven years as a senior
 engineer and team lead shipping production systems. Georgia Tech MSCS, based in Seattle.
@@ -6,7 +6,7 @@ engineer and team lead shipping production systems. Georgia Tech MSCS, based in 
 Most of what I build is research tooling. Harnesses that make an experiment reproducible, and eval
 environments that make a failure mode measurable.
 
-## Papers
+## 📄 Papers
 
 **[Attack Selection in Agentic AI Control Evaluations Meaningfully Decreases Safety](https://arxiv.org/abs/2606.06529)**
 (co-first author). An attacker that picks *when* to attack is much harder to catch than one that
@@ -33,7 +33,7 @@ goal, but they inherit drift when conditioned on prefilled trajectories from wea
 (ICLR 2026 Lifelong Agents Workshop). Coding agents violate a system prompt constraint more readily
 when it points against a trained-in value like security or privacy.
 
-## Building
+## 🛠️ Building
 
 [chat-search](https://github.com/tylercrosse/chat-search) is local-first search across ChatGPT,
 Claude, Codex, Gemini and OpenCode transcripts, written in Rust. The archiver runs on a schedule; the
@@ -50,7 +50,7 @@ parses what they print.
 [rl-algs](https://github.com/tylercrosse/rl-algs) is a small reproducible suite for reward
 misspecification, with mitigations that recover safe behavior.
 
-## Writing
+## ✍️ Writing
 
 I keep a digital garden at [tylercrosse.com](https://www.tylercrosse.com). A few to start with:
 
@@ -60,6 +60,6 @@ I keep a digital garden at [tylercrosse.com](https://www.tylercrosse.com). A few
 - [How collaborative apps handle conflicting edits](https://www.tylercrosse.com/ideas/2026/real-time-collaboration-contention/)
 - [GPU hardware and software](https://www.tylercrosse.com/ideas/2026/gpu-retro/)
 
-## Elsewhere
+## 🔗 Elsewhere
 
 [tylercrosse.com](https://www.tylercrosse.com) &middot; [LinkedIn](https://www.linkedin.com/in/tylercrosse/) &middot; [X](https://x.com/tyler_crosse)
